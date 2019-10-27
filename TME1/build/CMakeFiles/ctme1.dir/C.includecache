@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fernand/Bureau/Cpp/TME1/src/cBox.c
+malloc.h
+-
+string.h
+-
+cBox.h
+/home/fernand/Bureau/Cpp/TME1/src/cBox.h
+
+/home/fernand/Bureau/Cpp/TME1/src/cBox.h
+stdlib.h
+-
+stdio.h
+-
+
+/home/fernand/Bureau/Cpp/TME1/src/cMain.c
+cBox.h
+/home/fernand/Bureau/Cpp/TME1/src/cBox.h
+
