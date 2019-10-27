@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fernand/Bureau/TME3/src/Conteneurs.cpp
+Conteneurs.hpp
+/home/fernand/Bureau/TME3/src/Conteneurs.hpp
+GPL_2_text.h
+/home/fernand/Bureau/TME3/src/GPL_2_text.h
+string
+-
+vector
+-
+list
+-
+map
+-
+algorithm
+-
+iostream
+-
+
+/home/fernand/Bureau/TME3/src/Conteneurs.hpp
+
+/home/fernand/Bureau/TME3/src/GPL_2_text.h
+
+/home/fernand/Bureau/TME3/src/Timer.h
+ctime
+-
+iostream
+-
+
+/home/fernand/Bureau/TME3/src/test.cpp
+Conteneurs.hpp
+/home/fernand/Bureau/TME3/src/Conteneurs.hpp
+Timer.h
+/home/fernand/Bureau/TME3/src/Timer.h
+iostream
+-
+
