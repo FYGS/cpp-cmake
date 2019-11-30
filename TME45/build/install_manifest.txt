@@ -1,0 +1,8 @@
+/home/fernand/Bureau/TME45/build/../install/bin/tme45
+/home/fernand/Bureau/TME45/build/../install/include/Indentation.h
+/home/fernand/Bureau/TME45/build/../install/include/Term.h
+/home/fernand/Bureau/TME45/build/../install/include/Net.h
+/home/fernand/Bureau/TME45/build/../install/include/Instance.h
+/home/fernand/Bureau/TME45/build/../install/include/Point.h
+/home/fernand/Bureau/TME45/build/../install/include/Node.h
+/home/fernand/Bureau/TME45/build/../install/include/Cell.h
